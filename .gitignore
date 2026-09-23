@@ -1,0 +1,10 @@
+build/
+output/mat/*.mat
+output/vtk/*.vtk
+docs/
+
+# Generated simulation results and local run logs
+output/
+output_runs/
+*.log
+.*_time
